@@ -39,6 +39,3 @@ adjustCounter();
 up.addEventListener("click", clickUp);
 down.addEventListener("click", clickDown);
 reset.addEventListener("click", resetCounter);
-
-
-// met hoeveel stappen verhogen
